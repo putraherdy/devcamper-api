@@ -36,7 +36,7 @@ node seeder -i
 
 ## Demo
 
-Documentation with examples [here] (https://documenter.getpostman.com/view/10434883/SzRz1A87)
+Documentation with examples [here](https://documenter.getpostman.com/view/10434883/SzRz1A87)
 
 - Version: 1.0.0
 - License: MIT

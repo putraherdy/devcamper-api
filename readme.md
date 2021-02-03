@@ -22,5 +22,21 @@ npm run dev
 npm start
 ```
 
+## Database Seeder
+
+To seed the database with users, bootcamps, courses and reviews with data from the "_data" folder, run
+
+```
+# Destroy all data
+node seeder -d
+
+# Import all data
+node seeder -i
+```
+
+## Demo
+
+Documentation with examples [here] (https://documenter.getpostman.com/view/10434883/SzRz1A87)
+
 - Version: 1.0.0
 - License: MIT
